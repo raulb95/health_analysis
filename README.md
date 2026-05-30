@@ -14,5 +14,7 @@ and ensemble learning techniques.
 - Cross-validation
 
 ## Results
-Identified key predictors including smoking status, BMI,
-and chronic conditions.
+- Identified key cost drivers for sample population: chronic conditions, LDL levels, BMI, and age
+- Random Forest model achieved moderate predictive performance
+- Cluster analysis revealed 4 distinct patient risk groups
+- High-cost patients (top 20%) were strongly associated with elevated chronic conditions and healthcare utilization
