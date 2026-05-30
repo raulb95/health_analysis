@@ -8,9 +8,10 @@ Analyze medical insurance cost drivers using regression, clustering,
 and ensemble learning techniques.
 
 ## Methods
-- Random Forest
-- Lasso / Elastic Net
-- PCA, K-Means
+- Random Forest (feature importance & prediction)
+- Lasso / Elastic Net (regularization)
+- PCA (dimensionality reduction)
+- K-Means Clustering (risk segmentation)
 - Cross-validation
 
 ## Results
